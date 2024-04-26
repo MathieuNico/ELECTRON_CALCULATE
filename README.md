@@ -8,4 +8,4 @@ Ensuite "Extraire tout"
 
 Le fichier est un éxectuable il suffit de le lancer.
 
-
+![alt text](https://github.com/MathieuNico/ELECTRON_CALCULATE/blob/main/Calculette.png)
